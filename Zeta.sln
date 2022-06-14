@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zeta", "Zeta\Zeta.vcxproj", "{06154376-024F-4FDF-BE59-32E21DD0548B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zeta VM", "Zeta VM\Zeta VM.vcxproj", "{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{06154376-024F-4FDF-BE59-32E21DD0548B}.Release|x64.Build.0 = Release|x64
 		{06154376-024F-4FDF-BE59-32E21DD0548B}.Release|x86.ActiveCfg = Release|Win32
 		{06154376-024F-4FDF-BE59-32E21DD0548B}.Release|x86.Build.0 = Release|Win32
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Debug|x64.ActiveCfg = Debug|x64
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Debug|x64.Build.0 = Debug|x64
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Debug|x86.Build.0 = Debug|Win32
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Release|x64.ActiveCfg = Release|x64
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Release|x64.Build.0 = Release|x64
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Release|x86.ActiveCfg = Release|Win32
+		{D99ED542-DE51-4F7C-B467-3BF9F991BE1B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
